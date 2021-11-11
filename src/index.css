@@ -1,0 +1,23 @@
+body {
+  font-family: Trebuchet MS;
+  background-color: #262527;
+  color: #851e3e;
+  text-align: center;
+}
+
+h1 {
+  font-family: Trbuchet Ms;
+  color: white;
+  font-size: 90px;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 200;
+}
+
+h2,
+h3 {
+  margin: 0;
+}
